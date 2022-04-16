@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-spoon-balancing-extension": "github:microbit-cz/pxt-spoon-balancing-extension#2e7abd2b32f69309cc74ce4a0d64001ba6eeeb8e"
     },
     "files": [
         "README.md",
